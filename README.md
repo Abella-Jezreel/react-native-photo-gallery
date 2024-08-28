@@ -1,2 +1,1 @@
-# react-native-photo-gallery
-react-native-photo-gallery
+# react-native-advanced-concepts
